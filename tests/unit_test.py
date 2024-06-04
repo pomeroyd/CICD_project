@@ -1,5 +1,5 @@
 import unittest
 
 class TestApp(unittest.TestCase):
-    def test_app(self):
+    def test_app():
         pass
